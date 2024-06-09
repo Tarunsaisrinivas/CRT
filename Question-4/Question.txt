@@ -1,0 +1,1 @@
+print prim number upto 100 by repeationg loop for 40 times
